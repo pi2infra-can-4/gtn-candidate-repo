@@ -1,0 +1,7 @@
+aws_region   = "us-east-2"
+project_name = "my-awesome-project"
+environment  = "dev"
+vpc_cidr     = "192.168.0.0/16"
+db_name      = "appdb"
+db_username  = "dbadmin"
+db_password  = "ChangeMe123!"
